@@ -6,7 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Run the following code to start with this example 
 ```bash
-npx create-next-app -e https://github.com/codinghim/website_template.git
+npx create-next-app -e https://github.com/codinghim/website_template
 ```
 
 ## Getting Started
